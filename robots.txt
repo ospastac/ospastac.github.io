@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ospastac.github.io/sitemap.html.gz
+Sitemap: https://ospastac.github.io/app/sitemap.html.gz
+Sitemap: https://ospastac.github.io/assets/sitemap.html.gz
+Sitemap: https://ospastac.github.io/css/sitemap.html.gz
+Sitemap: https://ospastac.github.io/includes/sitemap.html.gz
+Sitemap: https://ospastac.github.io/item/sitemap.html.gz
+Sitemap: https://ospastac.github.io/src/sitemap.html.gz
